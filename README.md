@@ -1,123 +1,128 @@
-# ⚡ [DANIEL] – Portfolio
-> _Electronics Developer • Software Builder • Hardware Advisor • Systems Engineer_
+# ⚡ DANIEL – Portfolio
+> _Electronics Developer • Software Builder • Hardware Consultant • Systems Engineer_
 
 ---
 
 ## 🧠 Summary
 
-A passionate and self-driven technologist with a proven ability to translate ideas into tangible solutions through code. Since 2017, I've cultivated extensive hands-on experience in electronics, software development, ethical hacking, and system design/integration. Renowned among peers and educators as the "go-to" tech expert, I specialize in building functional, high-quality physical and digital products, with a strong track record in hardware advising and systems optimization.
+Technologist with 7+ years of hands-on experience in electronics, full-stack development, cybersecurity, and hardware design. Specializes in building robust, production-ready digital and physical systems. Known for solving complex problems with precision and delivering high-quality solutions across hardware, software, and networking domains.
 
 ---
 
-## 📅 Timeline of Experience
+## 🛠️ Professional Experience & Projects
 
-### 🔐 2018–2022 | Cybersecurity & CS Foundations
+### 🔐 Cybersecurity & Foundations (2018–2022)
+- Mastered core **Computer Science concepts** and **electronic principles**.
+- Conducted **ethical hacking simulations** using tools like Kali Linux, Aircrack-ng, and Wireshark.
+- **Reverse-engineered scam call centers** via VOIP and remote access to aid fraud reporting.
+- Built and sold custom-configured PCs for profit.
+- Developed **C# Discord bots** with external API integrations.
+- Identified and responsibly tested a critical **Discord token vulnerability** (since patched).
+- Provided expert **hardware/audio consulting** to hundreds via Reddit and Discord.
+- Launched early web projects using HTML/CSS.
 
-* Mastered core Computer Science concepts and fundamental electronic principles.
-* Conducted ethical hacking simulations on personal devices using Kali Linux, including Wi-Fi cracking, packet sniffing (Wireshark), and remote exploits.
-* Reverse-engineered scam call centers via VOIP and remote system access to facilitate fraud reporting.
-* Built and profitably sold custom-configured computers.
-* Developed C# Discord bots with robust external API integrations.
-* Identified and responsibly tested a critical Discord token exploit, which has since been patched.
-* Provided expert hardware and audio accessory advice to hundreds across Reddit and Discord communities.
-* Initiated web development projects using HTML and CSS.
-
-### ⚙️ 2022–2025 | Electronics, Web, and Systems
-
-* Engineered and built complex Arduino and ESP32 projects incorporating RF modules, custom displays, control interfaces, and integrated power systems.
-* Designed, produced, and successfully sold a custom ESP32-based PCB device, achieving profitability.
-* Developed a secure, full-stack web marketplace (PHP + SQL + MySQL) featuring SHA256 hashing, user authentication, and secure image/data storage.
-* Created a custom Minecraft client with unique cosmetic enhancements.
-* Established and managed a robust home server utilizing Docker for services including a Minecraft server, NAS, Pi-Hole, and home automation.
-* Configured a professional-grade Minecraft server with advanced plugins and gamemodes, mirroring commercial quality.
-* Developed a stylish C++ calculator application with a sophisticated UI and user management system.
+### ⚙️ Electronics, Embedded & Full Stack (2022–2025)
+- Engineered **Arduino/ESP32-based systems** with RF, displays, and modular I/O.
+- Designed, manufactured, and sold a **custom ESP32 PCB**, achieving 60–85% profit margins.
+- Built a secure, **full-stack web marketplace** (PHP + SQL) with hashed logins and image storage.
+- Created a **custom Minecraft client** with proprietary cosmetic features.
+- Developed a **hardened home server** with Docker running services like Minecraft, NAS, Pi-hole, and automation.
+- Hosted a **commercial-grade Minecraft server** with plugins and unique game modes.
+- Built a polished **C++ desktop calculator** featuring a GUI and user management system.
 
 ---
 
-## 🧰 Skills Overview
+## 💻 Technical Skills
 
-### 💻 Technical
-
-| Skill              | Confidence  | Notes                                           |
-| :-----------------| :---------- | :---------------------------------------------- |
-| Soldering          | ★★★★★ 95%   | Daily application in electronics projects       |
-| Photo Editing      | ★★★★★ 90%   | Official photography experience (incl. President of Malta) |
-| Video Editing      | ★★★★☆ 85%   | Achieved 30k+ IG and 100k+ TikTok followers through edits |
-| PCB Design         | ★★★★☆ 85%   | Designed custom boards for product development  |
-| Programming        | ★★★☆☆ 75%   | Proficient in C++, PHP, C#, HTML/CSS, SQL, Java, Bash |
-| Server Setup       | ★★★★☆ 85%   | Expertise in Docker, port tunneling, and network security |
-| Audio Engineering  | ★★★★☆ 75%   | Strong capabilities in music and vocal mastering |
-| 3D Design (CAD)    | ★★★☆☆ 55%   | Experience with Blender; early adoption of Fusion 360 |
+| Skill               | Proficiency     | Tools/Notes                                           |
+| :------------------ | :-------------- | :---------------------------------------------------- |
+| **Soldering**       | ★★★★★ Expert     | Daily use across diverse hardware projects            |
+| **PCB Design**      | ★★★★☆ Proficient | Designed boards for sale and integration              |
+| **Programming**     | ★★★☆☆ Competent  | C++, PHP, HTML/CSS, SQL, C#, Java               |
+| **Server Setup**    | ★★★★☆ Proficient | Docker, tunneling, Linux CLI, network security        |
+| **Audio Engineering**| ★★★★☆ Skilled   | Mixing/mastering vocals and music (FL Studio)         |
+| **3D Design (CAD)** | ★★★☆☆ Intermediate| Blender, Fusion 360 (basic mechanical CAD)            |
+| **Photo Editing**   | ★★★★★ Expert     | 250+ hrs prof. work (incl. President of Malta)        |
+| **Video Editing**   | ★★★★☆ Skilled    | Created viral edits (30k+ IG, 100k+ TikTok followers) |
 
 ---
 
-### 🧠 Software Proficiency
+## 🧠 Software & Tool Proficiency
 
-| Tool                | Notes                                                |
-| :------------------ | :--------------------------------------------------- |
-| Arduino IDE         | Essential for embedded systems development           |
-| KiCad               | Comprehensive PCB design and routing tool            |
-| Adobe Photoshop     | 250+ hours of professional photo editing experience  |
-| Adobe Premiere Pro  | 40+ hours managing video content production          |
-| Blender             | 150+ hours in 3D modeling and rendering              |
-| Visual Studio / VS Code | Primary integrated development environment       |
-| MySQL / phpMyAdmin  | Extensive experience in web backend database management |
-| Aircrack-ng / Nmap / Netcat | Applied in ethical hacking and network analysis projects |
-| GitHub              | Proficient in source control and collaborative development |
-| FL Studio           | 100+ hours in vocal mixing and audio mastering       |
+| Tool/Platform            | Notes                                                            |
+| :------------------------| :---------------------------------------------------------------- |
+| **Arduino IDE**          | Embedded firmware development for microcontrollers                |
+| **KiCad**                | Multi-layer PCB design & routing                                  |
+| **Adobe Photoshop**      | Professional image manipulation (350+ hrs)                        |
+| **Adobe Premiere Pro**   | Video production & editing (140+ hrs)                              |
+| **Blender**              | 3D modeling and rendering (170+ hrs)                              |
+| **VS Code / Visual Studio** | Main IDEs for general development                             |
+| **MySQL / phpMyAdmin**   | SQL-based backend and data management                             |
+| **Aircrack-ng / Nmap / Netcat** | Used for ethical hacking, packet inspection, network probes |
+| **GitHub**               | Source control and team collaboration                             |
+| **FL Studio**            | Vocal mastering and music production (150+ hrs)                   |
 
 ---
 
-## 🏆 Highlighted Achievements
+## 🏆 Key Achievements
 
-* Successfully designed, manufactured, and sold a custom ESP32-based PCB device, integrating a complete power system and RF capabilities.
-* Developed a secure, full-stack web marketplace from inception, incorporating robust login systems and encrypted data handling.
-* Identified a significant Discord security vulnerability, responsibly tested it, and confirmed its subsequent patching.
-* Recognized as a leading advisor for PC and audio equipment across online communities.
-* Designed and implemented a hardened, containerized personal server hosting diverse services.
-* Managed end-to-end logistics for international imports from China, including declarations, waybills, and optimizing delivery methods, demonstrating strong communication with factories.
+- Designed, built, and sold a **custom ESP32 PCB product**, with full production chain from concept to sale.
+- Created a secure, custom **web marketplace** with user auth, SHA256 hashing, and safe data storage.
+- Identified and responsibly disclosed a **Discord security flaw**, contributing to platform improvements.
+- Managed a self-hosted **Docker-based home server** with multiple production-grade services.
+- **Mastered client audio** for commercial delivery, including vocals and full music tracks.
+- Provided **PC/audio consulting advice** to hundreds, helping optimize thousands in hardware investments.
+- Handled **international logistics** for China imports: declarations, waybills, supplier comms, etc.
 
 ---
 
 ## 📚 Education
 
-**O-Level Qualifications (Grades 2 or better)**
-
-* Computer Science
-* Mathematics
-* Physics
-* Information Technology
-* Business Studies
-* English
-* Maltese
-* Russian
-* Italian
+**O-Level Qualifications (Most of grade 2 or better)**  
+- Computer Science  
+- Mathematics  
+- Physics  
+- Information Technology  
+- Business Studies  
+- English  
+- Maltese  
+- Russian  
+- Italian
 
 ---
 
 ## 🌍 Languages
 
-* Fluent: **English**, **Maltese**, **Russian**
-* Conversational: **Italian**
+- **Fluent:** English, Maltese, Russian  
+- **Conversational:** Italian  
 
 ---
 
 ## 🎯 Career Interests
 
-* Embedded Systems & Electronics
-* Full Stack Web/Device Development
-* Hardware Consulting & PC Builds
-* IoT & Automation
-* Software Engineering
+- Embedded Systems & Hardware  
+- Full Stack Web & App Development  
+- Hardware Consulting & Custom PC Builds  
+- Internet of Things (IoT) & Automation  
+- Software Engineering  
+- Tech-Driven Marketing Agencies  
+- Smart Devices, Open Source, Startups
+- Marketing Agency
 
 ---
 
-## ⚡ Bonus
+## 🤝 Community Engagement
 
-* Served as a trusted technology expert for peers and teachers since age 8, providing technical support and guidance.
-* Instructed students on web development fundamentals using HTML and CSS.
-* Mentored students, guiding them to achieve top grades in practical IT assignments with a high success rate.
-* Consistently sought out for advice on smart technology, audio, and PC purchasing decisions.
-* Actively engaged in ongoing side projects and personal ventures (details available upon request).
+- Acted as a trusted **tech advisor** since age 8, supporting peers and even educators.
+- Taught **HTML/CSS fundamentals** to beginner students in web dev from a young age.
+- Mentored classmates, helping them achieve **top IT practical grades**.
+- Regularly consulted for **PC/audio gear purchases** in school and online forums.
+- Continuously developing **personal side projects** (available on request or some publicly visible on GitHub).
 
 ---
+
+## 📬 Contact
+
+📧 [HIDDEN_FOR_NOW]  
+🔗 [LinkedIn Profile - IN PROGRESS]  
+🌐 [Github](https://github.com/danielsuperone)
